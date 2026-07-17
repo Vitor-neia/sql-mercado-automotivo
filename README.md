@@ -4,8 +4,18 @@ Este projeto demonstra a aplicação prática de linguagem SQL para engenharia d
 ## 🖥️ Camada de Entrega (Business Intelligence)
 Os painéis visuais abaixo foram acoplados como um complemento para traduzir o resultado das consultas estruturadas em indicadores de negócio ágeis:
 
+# Painel de Precificação e Depreciação
+<img width="1362" height="870" alt="Precificação_Depreciação" src="https://github.com/user-attachments/assets/58f2ea21-e19a-4848-b404-9c9089524fe1" />
+
 ### Painel de Desempenho e Eficiência
 <img width="1357" height="862" alt="Desempenho_eficiência" src="https://github.com/user-attachments/assets/ad27997e-6b29-428a-b3ae-c23e5e3cb4ce" />
+
+### Painel Risco e Histórico
+<img width="1363" height="865" alt="Risco_Historico" src="https://github.com/user-attachments/assets/edbaf9c9-8039-4e99-b691-2e1aafc2d3fe" />
+
+### Painel Análise de Mercado
+<img width="1370" height="858" alt="Analise_Mercado" src="https://github.com/user-attachments/assets/ea9eb159-e40b-4f6b-b644-736795f16a3c" />
+
 
 
 ## 🛠️ Desafios Técnicos e Soluções em SQL Implementadas:
