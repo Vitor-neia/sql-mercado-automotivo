@@ -1,10 +1,10 @@
 import sqlite3
 import pandas as pd
 
-# 1. Conecta ao banco de dados (se não existir, ele cria)
+# 1. Conecta ao banco de dados
 conn = sqlite3.connect('database.db')
 
-# 2. Lê o arquivo CSV usando o Pandas
+# Lendo arquivo csv
 df = pd.read_csv('automobile_dataset.csv')
 
 # 3. Salva os dados do CSV dentro do banco na tabela 'automobile_dataset'
