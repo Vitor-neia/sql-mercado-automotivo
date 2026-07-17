@@ -1,0 +1,13 @@
+# 📊 Engenharia de Dados e Análise de Negócio com SQL: Mercado Automotivo
+
+Este projeto demonstra a aplicação prática de linguagem SQL para engenharia de recursos, limpeza de dados (data cleaning) e extração de métricas de negócios a partir de um banco de dados automotivo complexo. Os gráficos e relatórios visuais foram acoplados apenas como um complemento de Business Intelligence para traduzir o resultado das consultas estruturadas em tomadas de decisão executiva.
+
+## 🛠️ Desafios Técnicos e Soluções em SQL Implementadas:
+
+* **Data Cleaning e Tratamento de Anomalias (Filtro de Nulos):** Identificação e tratamento de valores omissos e ruidosos (vazios ou computados como '0') nas colunas de histórico de sinistros (`Accident_History`) e manutenções (`Service_History`). Solucionado diretamente na camada de consulta com filtros lógicos baseados na cláusula `WHERE`, purificando a base antes de qualquer agregação.
+* **Agregações e Estatísticas de Performance:** Construção de queries utilizando funções agregadoras como `AVG()`, `MAX()` e `MIN()` agrupadas por fatias de mercado (`GROUP BY`). Isso permitiu identificar com precisão o teto de preço dos ativos e calcular as médias corretas de potência e consumo por modelo, neutralizando distorções causadas por registros duplicados ou em lote.
+* **Cálculo de Proporções e Métricas de Risco:** Desenvolvimento de subqueries para levantamento de fatias e percentuais de risco de ativos circulantes, demonstrando de forma exata a taxa de sinistralidade de mercado diretamente via código.
+
+## 💻 Stack Tecnológica:
+* **Core:** Linguagem SQL (Estruturação de consultas, agregações, filtros lógicos e subqueries).
+* **Complemento:** Python (Scripts de automação/carga) e Power BI Desktop para deploy visual dos resultados gerados pelas consultas.
