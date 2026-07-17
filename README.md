@@ -1,6 +1,12 @@
 # 📊 Engenharia de Dados e Análise de Negócio com SQL: Mercado Automotivo
 
 Este projeto demonstra a aplicação prática de linguagem SQL para engenharia de recursos, limpeza de dados (data cleaning) e extração de métricas de negócios a partir de um banco de dados automotivo complexo. Os gráficos e relatórios visuais foram acoplados apenas como um complemento de Business Intelligence para traduzir o resultado das consultas estruturadas em tomadas de decisão executiva.
+## 🖥️ Camada de Entrega (Business Intelligence)
+Os painéis visuais abaixo foram acoplados como um complemento para traduzir o resultado das consultas estruturadas em indicadores de negócio ágeis:
+
+### Painel de Desempenho e Eficiência
+<img width="1357" height="862" alt="Desempenho_eficiência" src="https://github.com/user-attachments/assets/ad27997e-6b29-428a-b3ae-c23e5e3cb4ce" />
+
 
 ## 🛠️ Desafios Técnicos e Soluções em SQL Implementadas:
 
