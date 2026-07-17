@@ -8,7 +8,7 @@ Os painéis visuais abaixo foram acoplados como um complemento para traduzir o r
 <img width="1362" height="870" alt="Precificação_Depreciação" src="https://github.com/user-attachments/assets/58f2ea21-e19a-4848-b404-9c9089524fe1" />
 
 # Painel de Desempenho e Eficiência
-<img width="1357" height="862" alt="Desempenho_eficiência" src="https://github.com/user-attachments/assets/ad27997e-6b29-428a-b3ae-c23e5e3cb4ce" />
+<img width="1707" height="862" alt="Desempenho_eficiencia" src="https://github.com/user-attachments/assets/deddcebf-5deb-42c0-adba-5067d496b2b1" />
 
 # Painel Risco e Histórico
 <img width="1363" height="865" alt="Risco_Historico" src="https://github.com/user-attachments/assets/edbaf9c9-8039-4e99-b691-2e1aafc2d3fe" />
